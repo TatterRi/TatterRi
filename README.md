@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TatterRi
+
   Boat Manager App
   SwiftUI and CloudKit
 
