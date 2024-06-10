@@ -1,5 +1,5 @@
 
-  Boat Manager App
+  Rick T
   SwiftUI and CloudKit
 
 <!---
